@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大乘三聚懺悔經
+#+DATE: 2015-08-30 20:44:32.858115
+#+PROPERTY: JUAN 0
